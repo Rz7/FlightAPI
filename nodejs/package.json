@@ -1,0 +1,13 @@
+{
+  "name": "flightAPI small server",
+  "version": "0.0.1",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "cors": "^2.8.3",
+    "debug": "^2.6.8",
+    "express": "^4.15.3",
+    "moment": "^2.18.1",
+    "querystring": "^0.2.0",
+    "request": "^2.81.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "protocol": "http",
+  "url": "*",
+  "server_port": 3000,
+  "methods": [
+    {
+      "method": "/airlines",
+      "verb": "get",
+      "f": "getAirlines"
+    },
+    {
+      "method": "/airports",
+      "verb": "get",
+      "f": "getAirports"
+    },
+    {
+      "method": "/search",
+      "verb": "get",
+      "f": "searchForFlights"
+    }
+  ]
+}
